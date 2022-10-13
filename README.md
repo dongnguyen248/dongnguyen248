@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dong Nguyen
 - 👀 I’m interested in developer with c#,reactjs ...
-- 🌱 I’m currently learning c#,reactjs
+- 🌱 I’m currently learning c#,reactjs ...
 - 📫 How to reach me dacdongdhv@gmail.com
 
 <!---
